@@ -26,7 +26,7 @@ public class LoginFilter implements Filter {
 
     @Override
     public void init(FilterConfig filterConfig) throws ServletException {
-        // 初始化逻辑（可选）
+        // 初始化逻辑
     }
 
     @Override

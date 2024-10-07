@@ -21,7 +21,7 @@ public class LoginFilter implements Filter {
 
     // 记住我 Cookie 名称
     private static final String REMEMBER_ME_COOKIE = "remember-me";
-    // 模拟用户登录的令牌（实际项目中需要加密和安全存储）
+    // 模拟用户登录的令牌
     private static final String REMEMBER_ME_TOKEN = "remember-me-token";
 
     @Override
